@@ -53,7 +53,7 @@ The interactive Power BI dashboard includes the following sections:
    - Summary statistics including total respondents, average salary, and overall job satisfaction.
 
 2. **Salary Analysis:**
-   - Visualizations showing salary distribution by region, role, and experience level.
+   - Visualizations showing salary distribution by region, roles.
 
 3. **Work-Life Balance:**
    - Analysis of work-life balance scores across different job roles and regions.
@@ -66,7 +66,7 @@ The interactive Power BI dashboard includes the following sections:
 
 ### Dashboard Preview
 
-![Dashboard Preview](link-to-screenshot)
+![Dashboard Preview](https://github.com/Raifatk/Data_Professional_Survey_Project/blob/main/Data_Professional_Survey_Project.pdf)
 
 ## Key Insights
 
