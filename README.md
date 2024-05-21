@@ -14,8 +14,6 @@ This project analyzes survey data from data professionals to gain insights into 
 6. [Key Insights](#key-insights)
 7. [How to Use](#how-to-use)
 8. [Conclusion](#conclusion)
-9. [Acknowledgements](#acknowledgements)
-10. [Report](#report)
 
 ## Project Description
 
@@ -23,7 +21,7 @@ This project involves analyzing a survey dataset from data professionals worldwi
 
 ## Data Source
 
-The dataset used in this project is obtained from [Survey Platform/Source]. It includes responses from data professionals on various topics such as work-life balance, salary, job satisfaction, location, and more.
+The dataset used in this project is obtained from ![Excel](https://github.com/Raifatk/Data_Professional_Survey_Project/blob/main/Power%20BI%20-%20Excel.xlsx). It includes responses from data professionals on various topics such as work-life balance, salary, job satisfaction, location, and more.
 
 ## Objectives
 
@@ -85,7 +83,7 @@ The interactive Power BI dashboard includes the following sections:
 ## How to Use
 
 1. **Download the Dataset:**
-   - Obtain the dataset from [Survey Platform/Source].
+   - Obtain the dataset from ![Excel](https://github.com/Raifatk/Data_Professional_Survey_Project/blob/main/Power%20BI%20-%20Excel.xlsx).
 
 2. **Open the Power BI Report:**
    - Download the Power BI report file (.pbix) from this repository.
@@ -98,13 +96,3 @@ The interactive Power BI dashboard includes the following sections:
 ## Conclusion
 
 This analysis provides a detailed overview of the work-life balance, salary, job satisfaction, and geographical trends among data professionals. The insights can help data professionals understand industry standards and assist employers in improving workplace conditions and compensation strategies.
-
-## Acknowledgements
-
-- [Survey Platform/Source] for providing the dataset.
-- Power BI for providing an excellent platform for data visualization.
-- The open-source community for continuous support and inspiration.
-
-## Report
-
-For a detailed report, please refer to the [Project Report PDF](path/to/your/file.pdf).
